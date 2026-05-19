@@ -1,4 +1,4 @@
-# Sahibinden Yazılım Test Otomasyon Stajyer Proje Ödevi
+
 
 ##  Kapsam ve Beklentiler
 Aşağıda verilen senaryo ve teknolojiler doğrultusunda bir test otomasyon projesi geliştirmeniz beklenmektedir.

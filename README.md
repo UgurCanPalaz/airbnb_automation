@@ -65,5 +65,5 @@ Testler, [https://www.airbnb.com](https://www.airbnb.com) adresi üzerinden ger�
 
 ---
 
-**Başarılar!** 
+
 

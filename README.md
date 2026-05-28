@@ -63,10 +63,6 @@ Testler, [https://www.airbnb.com](https://www.airbnb.com) adresi üzerinden ger�
 
 ---
 
-## Teslim Süresi
-
-- Teslim tarihi en geç, 30 Temmuz 2025 Çarşamba - 23.30
-
 ---
 
 **Başarılar!** 
